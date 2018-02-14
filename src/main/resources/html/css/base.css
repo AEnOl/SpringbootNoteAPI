@@ -1,0 +1,11 @@
+table td select {
+	margin-right: 10px;
+}
+
+table {
+	table-layout: fixed;
+}
+
+.row {
+	margin-bottom: 15px;
+}
